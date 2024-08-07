@@ -46,11 +46,11 @@ const PostHeading = () => (
         />{" "}
       </Item>
       <Item>
-        India{" "}
+        Kenya{" "}
         <img
           width={20}
           height={15}
-          src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+          src=""
           alt=""
         />
       </Item>

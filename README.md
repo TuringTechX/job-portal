@@ -94,7 +94,7 @@ Feel free to explore
 
 Front End 👉🏻 https://jp-lgope.netlify.app
 
-Back-End API 👉🏻 https://job-portal-lgope.onrender.com
+Back-End API 👉🏻 https://job-portal-hzd0.onrender.com
 
 <hr />
 

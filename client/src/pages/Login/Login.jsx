@@ -40,7 +40,7 @@ const Login = () => {
         };
 
         //get token
-        fetch("https://job-portal-lgope.onrender.com/api/auth/jwt", {
+        fetch("https://job-portal-hzd0.onrender.com/api/auth/jwt", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
