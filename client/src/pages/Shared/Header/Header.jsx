@@ -79,7 +79,7 @@ const Header = () => {
                         border: "1px solid white",
                       },
                     }}>
-                    SING IN
+                    SIGN IN
                   </Button>
                 </Link>
                 <Link to="/signup">
@@ -94,7 +94,7 @@ const Header = () => {
                         backgroundColor: "rgb(91, 188, 46)",
                       },
                     }}>
-                    SING UP
+                    SIGN UP
                   </Button>
                 </Link>
               </Box>
